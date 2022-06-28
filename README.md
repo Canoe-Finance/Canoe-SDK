@@ -10,7 +10,7 @@ Canoe-SDK is used by game projects developed based on the Unity engine
 
 - Achieving the security system of hot wallet (Two weeks)
 
-- Wallet account binding game account (One weeks)
+- Wallet account binding game account (Two days, Only wallet signature)
 
 ### [x] Unity based DeFi module
 
